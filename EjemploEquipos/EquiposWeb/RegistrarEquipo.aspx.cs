@@ -35,7 +35,11 @@ namespace WebFormApp
             string club = tbClub.Text;
             int puntos = Convert.ToInt32(tbPuntos.Text);
 
-            contenedor.RegistrarEquipo(nombre, club, puntos);            
+            contenedor.RegistrarEquipo(nombre, club, puntos);
+
+            tbNombre.Text = "";
+            tbClub.Text = "";
+            tbPuntos.Text = "";
         }
     }
 }

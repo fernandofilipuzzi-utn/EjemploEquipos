@@ -1,0 +1,2 @@
+F:\repos\repos_utn_lab1\EjemploEquipos\EjemploEquipos\EquiposWeb\obj\Debug\EquiposWeb.csproj.AssemblyReference.cache
+F:\repos\repos_utn_lab1\EjemploEquipos\EjemploEquipos\EquiposWeb\obj\Debug\EquiposWeb.csproj.CoreCompileInputs.cache

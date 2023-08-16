@@ -1,0 +1,5 @@
+F:\repos\repos_utn_lab1\EjemploEquipos\EjemploEquipos\EquiposClassLib\bin\Debug\EquiposClassLib.dll
+F:\repos\repos_utn_lab1\EjemploEquipos\EjemploEquipos\EquiposClassLib\bin\Debug\EquiposClassLib.pdb
+F:\repos\repos_utn_lab1\EjemploEquipos\EjemploEquipos\EquiposClassLib\obj\Debug\EquiposClassLib.csproj.CoreCompileInputs.cache
+F:\repos\repos_utn_lab1\EjemploEquipos\EjemploEquipos\EquiposClassLib\obj\Debug\EquiposClassLib.dll
+F:\repos\repos_utn_lab1\EjemploEquipos\EjemploEquipos\EquiposClassLib\obj\Debug\EquiposClassLib.pdb
