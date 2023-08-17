@@ -45,8 +45,12 @@
     <Compile Include="Equipo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="uml\" />
+    <None Include="uml\equipos.uml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="uml\equpos.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

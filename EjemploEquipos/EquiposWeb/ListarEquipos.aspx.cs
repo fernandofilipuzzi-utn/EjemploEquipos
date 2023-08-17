@@ -26,7 +26,7 @@ namespace EquiposWeb
                     Session["contenedor"] = contenedor;
                 }
 
-                ltvListado.DataSource = contenedor.Listar();
+                ltvListado.DataSource = contenedor.ListarOrdenadosPorPuntos();
                 ltvListado.DataBind();
             }
         }

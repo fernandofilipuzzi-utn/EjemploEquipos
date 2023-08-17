@@ -15,7 +15,7 @@ namespace EquiposClassLib
             equipos.Add(new Equipo { Nombre = nombre, Club = club, Puntos = puntos });
         }
 
-        public ArrayList Listar()
+        public ArrayList ListarOrdenadosPorPuntos()
         {
             for (int n = 0; n < equipos.Count-1; n++) 
             {
